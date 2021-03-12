@@ -1,3 +1,7 @@
+*Bitbitcon Core*
+
+Bit Bit Coin merupakan coin komunitas yang akan di selesaikan untuk kebutuhan komunitas crypto. coin ini di kembangkan dengan menfaatkan fork dari bitcoin.
+
 Bitcoin Core integration/staging tree
 =====================================
 
